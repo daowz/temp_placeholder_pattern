@@ -12,3 +12,24 @@ This article contain placeholder image used in the Admin. The usage and variatio
 ##Variations
 ###1. Base 
 ![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder-01.png)
+
+##Style Guide
+Color: #dddddd
+
+##Assets
+
+##Examples
+
+Used in card view
+
+![](https://github.com/daowz/temp_placeholder_pattern/blob/master/Samples/01_Cardview.jpg)
+
+
+Used in datagrid
+
+![](https://github.com/daowz/temp_placeholder_pattern/blob/master/Samples/02_datagrid.jpg)
+
+
+Used in trees
+
+![](https://github.com/daowz/temp_placeholder_pattern/blob/master/Samples/03_tree.jpg)
