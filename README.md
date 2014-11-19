@@ -14,6 +14,7 @@ This article contain placeholder image used in the Admin. The usage and variatio
 ![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder-01.png)
 
 ##Style Guide
+Color: #dddddd
 
 ##Assets
 
