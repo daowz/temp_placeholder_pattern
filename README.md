@@ -1,4 +1,4 @@
-temp_placeholder_pattern
+Placeholder Pattern
 ========================
 ##Overview
 This article contain placeholder image used in the Admin. The usage and variations are described below. For solutions not described in this article, please contact Magento UX Design Team.
