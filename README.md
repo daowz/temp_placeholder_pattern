@@ -20,7 +20,7 @@ Note: Hover state follow its context
 ![](https://github.com/daowz/temp_placeholder_pattern/blob/master/StyleGuide/styleguide_01.jpg)
 
 **Example:**
-Size: 362x219
+Size: 362x219 (Used in Cardview of Visual Merchandiser and Search Results)
 
 ![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder_362x219.jpg)
 
@@ -29,11 +29,11 @@ Size: 362x219
 
 **Examples:**
 
-Size: 50x75
+Size: 50x75 (Used in theme management)
 
 ![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder_50x75.jpg)
 
-Size: 50x50
+Size: 50x50 (Used in datagrid)
 
 ![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder_50x50.jpg)
 
