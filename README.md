@@ -41,7 +41,7 @@ The placeholder images is meant to be used as given.
 
 
 ##Assets
-The jpgs of the 3 images and the .ai logo can be found in the following link. (The jpgs are doubled in size for retina display.)
+The jpgs of the 3 images and the vector logo can be found in the following link. (The jpgs are doubled in size for retina display.)
 
 https://github.com/daowz/temp_placeholder_pattern/blob/master/img
 
