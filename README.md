@@ -12,26 +12,36 @@ This article contain placeholder image used in the Admin. The usage and variatio
 ##Interactions
 No interaction, this is a static image.
 
-##Variations
-###1. 362x219
+##Variations and Style Guide
+
+Note: Hover state follow its context
+
+###1. Size equal to or greater than 175x175 px
+![](https://github.com/daowz/temp_placeholder_pattern/blob/master/StyleGuide/styleguide_01.jpg)
+
+**Example:**
+Size: 362x219
+
 ![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder_362x219.jpg)
 
-###2. 50x75
+###2. Size less than 175x175 px
+![](https://github.com/daowz/temp_placeholder_pattern/blob/master/StyleGuide/styleguide_02.jpg)
+
+**Examples:**
+
+Size: 50x75
+
 ![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder_50x75.jpg)
 
-###2. 50x50
-![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder_50x50.jpg)
+Size: 50x50
 
-##Style Guide
+![placeholder image](https://github.com/daowz/temp_placeholder_pattern/blob/master/img/placeholder_50x50.jpg)
 
 The placeholder images is meant to be used as given. 
 
-1. Color is #dddddd
-2. No border
-3. Hover state follow its context
 
 ##Assets
-The jpgs of the 3 images can be found in the following link. The images are doubled in size for retina display.
+The jpgs of the 3 images and the .ai logo can be found in the following link. (The jpgs are doubled in size for retina display.)
 
 https://github.com/daowz/temp_placeholder_pattern/blob/master/img
 
@@ -50,4 +60,3 @@ Used in trees
 Used in datagrid
 
 ![](https://github.com/daowz/temp_placeholder_pattern/blob/master/Samples/02_datagrid.jpg)
-
